@@ -1,1 +1,1 @@
-# cvHSVConfig
+# opencv-hsv-experiment
